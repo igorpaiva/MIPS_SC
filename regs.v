@@ -38,6 +38,4 @@ module regs(input wire clk, wr_data, wr_en,
 			endcase
 		end
 		
-	
-		
 endmodule 
